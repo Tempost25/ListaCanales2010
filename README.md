@@ -111,3 +111,5 @@ acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.svg" group-title="UK" tvg-id="BT SPORT 3", BT SPORT 3
 acestream://5f966c123759de46dff29c379266b7a403452033
 
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
+acestream://
